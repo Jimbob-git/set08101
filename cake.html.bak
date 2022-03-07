@@ -16,7 +16,7 @@ Baking Cakes
 <a href="/ingredients/" target="_blank">Ingredients</a> |
 <a href="/mixing/" target="_blank">Mixing</a> |
 <a href="/toppings/" target="_blank">Toppings</a> |
-<a href="/Recipes/" target="recipes.html">Recipes</a>
+<a href="/Recipes/" target="_blank">Recipes</a> <src="recipes.html"</a>
 </nav>
 <section>
 <h1>Cake Tips and Techniques</h1>
