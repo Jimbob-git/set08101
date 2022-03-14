@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-9" />
+<title>Hobbies</title>
+</head>
+<body>
+		
+		
+<header>
+Hobbies
+<hr />
+</header>
+<nav>
+<a href="Baking.html" target="baking.html">HIBS</a> |
+<a href="ingredients.html" target="ingredients.html">LIVERPOOL</a> |
+<a href="mixing.html" target="mixing.html">BORUSSIA_DORTMUND</a> |
+</nav>
+<section>
+<h1>My Favourite Teams</h1>
+<h2>My football story</h2> </hgroup>
+<p>
+As far back as I can remember, my Father used to take me to Easter Road on Saturday, the home of Hibernian Football Club.  My father always had a love of Hibs, and in later life would play golf every Sunday with two of the Famous Five Hibs players from long ago.  My Father was also very fond of Liverpool Football club and would be invited down to Anfield from time to time.  My father's business partner at the time, had a brother who although was based in Switzerland, would fly into Liverpool at the weekends and had a Director's box at Anfield.  My Father used to love these experiences and would often tell me the stories.  So, it's not unusual really that these two clubs are now very close to me, especially as my Father passed away monay years ago now.  By clicking on the HIBS, LIVERPOOL or BORUSSIA DORTMUND tabs at the top of the page, they will provide you with some further information on each of the clubs, which you may find interesting.
+</p>
+<p>As for Borussia Dortmund, I have always enjoyed watching German football, and have grown over the years to love the way Borussia Dortmund play.  They attack from the word go and as a football fan, that is what I want to see.  Excitement, energy, passion and usually lots of goals.</p>
+<aside>
+To create a water bath, use ta pen that will allow you to fill it with boiling water that goes halfway up the spring form pan in which the cake is placed.
+</aside>
+</section>
+		
+<footer> &copy; 2020 - Better Made Cakes - All rights reserved </footer>
+		
+</body>
+</html>

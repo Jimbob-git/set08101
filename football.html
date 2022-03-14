@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-9" />
+<title>Hobbies</title>
+</head>
+<body>
+		
+		
+<header>
+Hobbies
+<hr />
+</header>
+<nav>
+<a href="hibs.html" target="hibs.html">HIBS</a> |
+<a href="liverpool.html" target="liverpool.html">LIVERPOOL</a> |
+<a href="borussia_dortmund.html" target="borussia_dortmund.html">BORUSSIA_DORTMUND</a> |
+</nav>
+<section>
+<h1>My Favourite Teams</h1>
+<h2>My football story</h2> </hgroup>
+<p>
+As far back as I can remember, my Father used to take me to Easter Road on Saturday, the home of Hibernian Football Club.  My father always had a love of Hibs, and in later life would play golf every Sunday with two of the Famous Five Hibs players from long ago.  My Father was also very fond of Liverpool Football club and would be invited down to Anfield from time to time.  
+</p>
+<p>
+My father's business partner at the time, had a brother who although was based in Switzerland, would fly into Liverpool at the weekends and had a Director's box at Anfield.  My Father used to love these experiences and would often tell me the stories.
+</p>
+<p>
+So, it's not unusual really that these two clubs are now very close to me, especially as my Father passed away monay years ago now.
+</p>
+<p>
+As for Borussia Dortmund, I have always enjoyed watching German football, and have grown over the years to love the way Borussia Dortmund play.  They attack from the word go and as a football fan, that is what I want to see.  Excitement, energy, passion and usually lots of goals.
+</p>
+<aside>
+By clicking on the HIBS, LIVERPOOL or BORUSSIA DORTMUND tabs at the top of the page, they will provide you with some further information on each of the clubs, which you may find interesting.
+</aside>
+</section>
+		
+<footer>
+<p>
+Sources: https://www.liverpoolfc.com/history/heroes/bill-shankly 
+</p>
+</footer>
+		
+</body>
+</html>
