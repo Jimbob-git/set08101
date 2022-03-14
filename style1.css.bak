@@ -69,7 +69,7 @@ body{
 }
 .check{
     
-    background-color: #32CD32;
+    background-color: #00FF00;
 }
 .next{
     color: white;
